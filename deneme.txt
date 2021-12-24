@@ -1,3 +1,19 @@
-VSCode deneme yapiyorum,,,
-Degisiklik yaotim
-gdhsydfhergfbSSS
+======================1.BOLUM (Sifirdan proje olusturma)==========
+1- github'dan repository olusturulur.
+2- terminale gidilir (IDE terminal / Prompt)
+3- projenin oldugu klasorun yolun kopyalanir.
+4- Terminale(IDE terminal / Prompt) <cd "proje yolu"> yazilir
+5- <git init> komutu yazilir (bir repo init edilir)
+6- <git add .> komutu yazilir
+7- <git status> (neleri eklediginizi gosterir) -> ekstra komut
+8- <git commit -m "v2"> komutu yazilir
+9- Ardindan github sayfasina gecilir
+10- <git remote add origin https://github.com/karahanhuseyin/ibpwgfprqg.git> benzeri git remote kodu githubimizdan alinir.
+11- <git push -u origin master> komutu yazilir ve github'a projemizi gonderilmis olur.
+
+
+======================2.BOLUM (github'da var olan bir projeyi update etme)==========
+1- Terminale(IDE terminal / Prompt) <cd "proje yolu"> yazilir
+2- <git add .> komutu yazilir
+3- <git commit -m "v3"> ardindan kodu yazilir
+4- <git push> komutu yazilir.
